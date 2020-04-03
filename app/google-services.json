@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "228592857129",
+    "firebase_url": "https://videoupload-b6396.firebaseio.com",
+    "project_id": "videoupload-b6396",
+    "storage_bucket": "videoupload-b6396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228592857129:android:8200b5a3d5b3cd18152c38",
+        "android_client_info": {
+          "package_name": "io.librehealth.firebasevideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228592857129-nme9pimq5op1ppp548iurq26qhu9tb67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.librehealth.firebasevideo",
+            "certificate_hash": "84e1696d4930fac6e38a95f87a8fc231b118fb25"
+          }
+        },
+        {
+          "client_id": "228592857129-rufva3798nej9n75s09kqtp5r48kcjul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6bTFbYdMpxjV9bkyS8EMHdmu67WaDRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228592857129-rufva3798nej9n75s09kqtp5r48kcjul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
