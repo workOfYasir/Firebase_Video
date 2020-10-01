@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         }
         catch (Exception e)
         {
-            Toast.makeText(this, "moveToUploadImageAct:"+e.getMessage(), Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "moveToUploadImageAct:"+e.getMessage(), Toast.LENGTH_LONG).show();
         }
     }
 
@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         }
         catch (Exception e)
         {
-            Toast.makeText(this, "moveToUploadImageAct:"+e.getMessage(), Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "moveToUploadImageAct:"+e.getMessage(), Toast.LENGTH_LONG).show();
         }
     }
 }
